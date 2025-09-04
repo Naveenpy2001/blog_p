@@ -1,1 +1,0 @@
-const res = fetch('api_link');
